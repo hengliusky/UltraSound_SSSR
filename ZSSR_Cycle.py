@@ -85,8 +85,8 @@ class ZSSR:
         self.model_L2H = USGan_g()
         self.model_H2L = High2Low()
         self.net_vgg = Vgg19()
-        self.Discriminator_L = Discriminator(3)
-        self.Discriminator_H = Discriminator(3)
+        self.Discriminator_L = Discriminator()
+        self.Discriminator_H = Discriminator()
 
         self.fake_L_buffer = ReplayBuffer()
         self.fake_H_buffer = ReplayBuffer()
