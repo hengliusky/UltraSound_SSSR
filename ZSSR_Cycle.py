@@ -4,9 +4,8 @@ import matplotlib.pyplot as plt
 import matplotlib.image as img
 from matplotlib.gridspec import GridSpec
 from configs import Config
-from us_utils1 import *
-from test import Discriminator
-from us_model import USGan_g
+from utils import *
+from us_model import USGan_g, Discriminator
 from yoon_model import High2Low
 from vgg import Vgg19
 import itertools
