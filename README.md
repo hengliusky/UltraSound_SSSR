@@ -13,7 +13,7 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 + US-CASE: http://www.ultrasoundcases.info/Cases-Home.aspx
 
-  The US-CASE images we used are available here:[Baidu Disk](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，extract code：63yq
+  The US-CASE images we used are available here:[Baidu Netdisk](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，extract code：63yq
 
 
 ## Results
