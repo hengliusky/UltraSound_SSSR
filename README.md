@@ -2,9 +2,9 @@
 
 
 
-This repository is for the paper, "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", accepted in  Neural Computing and Applications.
+This repository is for the [paper](https://link.springer.com/article/10.1007/s00521-020-05687-9), "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", accepted in  Neural Computing and Applications(2021). Liu, H., Liu, J., Hou, S. et al. Perception consistency ultrasound image super-resolution via self-supervised CycleGAN. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-020-05687-9
 
-[Paper](https://link.springer.com/article/10.1007/s00521-020-05687-9)
+
 
 
 ## Datasets
@@ -35,9 +35,9 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 ## Training && Testing
 
 + Split the dataset into training set and test set. 
-+ Use `generate_lr.m` to generate LR images and the corresponding HR images
-+ Modify `input_path`  in `configs.py`
-+ Run `python run_zssr_cycle.py  ` for automatical training and testing 
++ Use `generate_lr.m` to generate LR images and the corresponding HR images.
++ Modify `input_path`  in `configs.py`.
++ Run `python run_zssr_cycle.py  ` for automatical training and testing.
 
 
 
