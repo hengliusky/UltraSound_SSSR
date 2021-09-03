@@ -19,16 +19,12 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 ## Results
 
-Results on CCA-US dataset
+**Results on CCA-US dataset
 
-<div align=center>
-<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results1.PNG"
-</div>
+<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results1.PNG">
 
-Results on US-CASE dataset
-<div align=center>
-<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results2.PNG"
-</div>
+**Results on US-CASE dataset
+<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results2.PNG">
 
 ## Requirements
 
