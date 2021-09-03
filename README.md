@@ -2,7 +2,8 @@
 
 
 
-This repository is for the [paper](https://link.springer.com/article/10.1007/s00521-020-05687-9), "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", accepted in  Neural Computing and Applications(2021). Liu, H., Liu, J., Hou, S. et al. Perception consistency ultrasound image super-resolution via self-supervised CycleGAN. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-020-05687-9
+This repository is for the [paper](https://link.springer.com/article/10.1007/s00521-020-05687-9), "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", published in  Neural Computing and Applications(2021). 
+Liu, H., Liu, J., Hou, S. et al. Perception consistency ultrasound image super-resolution via self-supervised CycleGAN. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-020-05687-9
 
 
 
