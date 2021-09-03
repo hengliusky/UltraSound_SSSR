@@ -4,7 +4,7 @@
 
 This repository is for the paper, "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", accepted in  Neural Computing and Applications.
 
-[Paper](https://link.springer.com/article/10.1007/s00521-020-05687-9))
+[Paper](https://link.springer.com/article/10.1007/s00521-020-05687-9)
 
 
 ## Datasets
