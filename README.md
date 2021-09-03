@@ -23,7 +23,7 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 Results on CCA-US dataset
 
 <div align=center>
-<img src="./data/Results1.PNG"
+<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results1.PNG"
 </div>
 
 <hr></hr>
@@ -31,7 +31,7 @@ Results on CCA-US dataset
 Results on US-CASE dataset
 
 <div align=center>
-<img src="./data/Results2.png">
+<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results2.PNG">
 
 
 
