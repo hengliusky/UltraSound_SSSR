@@ -16,7 +16,6 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
   The US-Case image we used is available here:[百度网盘](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，提取码：63yq
 
-## 
 
 ## Results
 
@@ -26,11 +25,10 @@ Results on CCA-US dataset
 <img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results1.PNG"
 </div>
 
-<hr></hr>
-
 Results on US-CASE dataset
-
-
+<div align=center>
+<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results2.PNG"
+</div>
 
 ## Requirements
 
