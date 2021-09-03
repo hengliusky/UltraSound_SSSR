@@ -1,4 +1,4 @@
-# USSR
+# SSCSR
 
 
 
@@ -34,11 +34,10 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 ## Training && Testing
 
-+ Split the dataset into training set and test set. In our method, we only need the test set.  
++ Split the dataset into training set and test set. 
 + Use `generate_lr.m` to generate LR images and the corresponding HR images
 + Modify `input_path`  in `configs.py`
-+ Run `python run_zssr_cycle.py  `
-+  After the training, it will automatically test and get the final super-resolution result  
++ Run `python run_zssr_cycle.py  ` for automatical training and testing 
 
 
 
