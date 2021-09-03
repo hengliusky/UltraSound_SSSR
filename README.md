@@ -30,9 +30,7 @@ Results on CCA-US dataset
 
 Results on US-CASE dataset
 
-<div align=center>
-<img src="https://github.com/hengliusky/UltraSound_SSSR/blob/main/results/Results2.PNG">
-</div>
+
 
 ## Requirements
 
