@@ -4,7 +4,7 @@
 
 This repository is for the paper, "**Preception Consistency Ultarsound Images Super-resolution via Self-supervised CycleGAN**", accepted in  Neural Computing and Applications.
 
-[Paper]([Perception consistency ultrasound image super-resolution via self-supervised CycleGAN | SpringerLink](https://link.springer.com/article/10.1007/s00521-020-05687-9))
+[Paper](https://link.springer.com/article/10.1007/s00521-020-05687-9))
 
 
 ## Datasets
@@ -13,7 +13,7 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 + US-CASE: http://www.ultrasoundcases.info/Cases-Home.aspx
 
-  The US-Case image we used is available here:[百度网盘](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，提取码：63yq
+  The US-CASE images we used are available here:[百度网盘](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，提取码：63yq
 
 
 ## Results
@@ -44,7 +44,7 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 ## Citing
 
-If our method is useful for your research, please consider citing.
+Please cite as:
 
 >```
 >@article{liu2021perception,
