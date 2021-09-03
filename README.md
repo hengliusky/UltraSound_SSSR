@@ -13,7 +13,7 @@ This repository is for the [paper](https://link.springer.com/article/10.1007/s00
 
 + US-CASE: http://www.ultrasoundcases.info/Cases-Home.aspx
 
-  The US-CASE images we used are available here:[Baidu Netdisk](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，extract code：63yq
+  The US-CASE images we used are available here:[Baidu Netdisk](https://pan.baidu.com/s/1V5fvczpYFVN_eR7L5zJGTA)，extraction code：63yq
 
 
 ## Results
