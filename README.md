@@ -6,7 +6,6 @@ This repository is for the paper, "**Preception Consistency Ultarsound Images Su
 
 [Paper]([Perception consistency ultrasound image super-resolution via self-supervised CycleGAN | SpringerLink](https://link.springer.com/article/10.1007/s00521-020-05687-9))
 
-<hr></hr>
 
 ## Datasets
 
